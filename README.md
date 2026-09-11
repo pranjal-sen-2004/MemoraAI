@@ -1,4 +1,4 @@
-# Nova Agent
+# Memora Agent
 
 A personal AI agent that lives in Telegram, reasons through multi-step
 tasks using [LangGraph](https://langchain-ai.github.io/langgraph/),
